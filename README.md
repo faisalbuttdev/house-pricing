@@ -1,0 +1,1 @@
+#This is going to be a ml project with fastapi for the model and golang for serving the api.
